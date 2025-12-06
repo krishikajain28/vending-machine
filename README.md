@@ -82,3 +82,21 @@ Compile the program using any C++ compiler:
 g++ index.cpp -o index.exe
 ./index.exe
 ```
+
+## Notes
+
+Creative enhancements:
+
+Sparkling Water priced slightly higher for realism
+Fun personalized prompts for friends’ orders
+Code is fully documented and uses proper OOP concepts
+
+## Requirements:
+
+C++11 or later
+Standard C++ compiler (g++, clang++)
+
+## Author
+
+Krishika Jain
+B.Sc. Computer Science, KC College, Mumbai
